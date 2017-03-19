@@ -1,0 +1,23 @@
+{
+  "name": "unity-package-authentication",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "unity",
+    "package",
+    "authentication"
+  ],
+  "author": "Ben Greenier",
+  "license": "MIT",
+  "dependencies": {
+    "request": "^2.81.0",
+    "request-promise": "^4.2.0"
+  },
+  "devDependencies": {
+    "mocha": "^3.2.0"
+  }
+}
