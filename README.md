@@ -16,7 +16,7 @@ Simple! Just `npm install unity-package-authentication`
 
 ### Use
 
-See the following (or the [tests](./test/basic.js):
+See the following (or the [tests](./test/basic.js)):
 
 ```
 const client = new UnityAuthenticationClient()
