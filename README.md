@@ -1,6 +1,6 @@
 # unity-package-authentication
 
-> Note: uses es6 classes, see [this](http://node.green/#ES2015-functions-class) for node version compatabilities
+> Note: uses es6 classes, see [this](http://node.green/#ES2015-functions-class) for node version compatibility
 
 [![Build Status](https://travis-ci.org/bengreenier/unity-package-authentication.svg?branch=master)](https://travis-ci.org/bengreenier/unity-package-authentication)
 
